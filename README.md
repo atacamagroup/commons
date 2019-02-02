@@ -1,6 +1,6 @@
 # Commons
 
-A technical biomedical informatics and computational biology knowledge base
-[commons][commons] for graduate students.
+A technical biomedical informatics and computational biology
+[knowledge commons][commons] for graduate students and postdocs.
 
-[commons]: https://en.wikipedia.org/wiki/Commons
+[commons]: https://en.wikipedia.org/wiki/Knowledge_commons
