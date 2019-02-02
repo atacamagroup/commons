@@ -1,0 +1,4 @@
+# Supervised Learning
+
+```{r child="content/shrinkage_methods.Rmd"}
+```

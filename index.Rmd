@@ -1,0 +1,26 @@
+---
+title: "Commons"
+date: "`r Sys.Date()`"
+output:
+  bookdown::bookdown_site: default
+  bookdown::gitbook:
+    split_by: section
+documentclass: book
+github-repo: atacamagroup/commons
+description: |
+    A technical biomedical informatics and computational biology knowledge
+    commons for graduate students and postdocs.
+tags: [graduate school, resource, commons, knowledge base]
+---
+
+
+# Introduction {-}
+
+Welcome to the Commons!
+
+This is meant to serve as a cumulative resource and record of fruitful
+discussions and hard fought intuition on technical topics.
+
+This Commons code is on GitHub [here][ghcode]. Feel free to contribute!
+
+[ghcode]: https://github.com/atacamagroup/commons

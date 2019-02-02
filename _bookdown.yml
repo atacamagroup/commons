@@ -1,0 +1,5 @@
+book_filename: "commons"
+chapter_name: "Chapter "
+output_dir: "docs"
+rmd_subdir: "chapters"
+edit: https://github.com/atacamagroup/commons/edit/master/%s
